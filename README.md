@@ -1,2 +1,2 @@
 # project3
-This is my third project for github class...
+This is my third project for github class
